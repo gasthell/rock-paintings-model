@@ -2,4 +2,4 @@
 
 CV pipeline - Abu
 
-VGG16, ResNet, EffecientNet - Sungat
+ViT-P, Unet, - Sungat
