@@ -1,5 +1,10 @@
 # rock-paintings-model
 
-CV pipeline - Abu
+Abu:
+CV pipeline
 
-ViT-P, Unet, - Sungat
+Sungat:
+
+Supervised - ViT-P, Unet, internimage-h
+	
+Unsupervised: DynaSeg - FSF(ResNet-18 FPN), U2Seg, DiffCut
