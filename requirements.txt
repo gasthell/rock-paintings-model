@@ -1,0 +1,13 @@
+opencv-python
+numpy
+matplotlib
+torch
+torchvision
+transformers
+albumentations
+scipy
+Pillow
+tqdm
+segmentation-models-pytorch
+diffusers
+patchmatch
